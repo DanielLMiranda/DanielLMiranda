@@ -3,11 +3,12 @@
 ### About me
 
 - 🧔🏽 I'm 20 years old, brazilian living in São Paulo
-- 🌱 I’m currently taking a Full Stack Development course at [Trybe](https://www.betrybe.com/)
+- 🌱 I’m currently taking a React, React Native and NodeJS course at [Rocketseat](https://rocketseat.com.br/) called Ignite
+- 🎓 I graduated as a software developer at [Trybe](https://www.betrybe.com/) in March 2021
 - 👯 I’m looking for job oportunities as a software developer
-- 🥅 2021 Goals: Complete the three courses I'm enrolled in: [Trybe](https://www.betrybe.com/) | [Origamid](https://www.origamid.com/) | [Rocketseat](https://rocketseat.com.br/)
+- 🥅 2021 Goals: Complete Ignite at [Rocketseat](https://rocketseat.com.br/) and additional front-end courses at [Origamid](https://www.origamid.com/) | 
 - 📚 Always trying to improve my programming and english skills
-- ⚡ I love technology and video games, and also very interested in economics and geopolitics
+- ⚡ I love technology and video games, and also very interested in economics, cryptocoins and geopolitics
 
 ### Languages and Tools
 
@@ -39,18 +40,3 @@
 ### GitHub Stats
 
 <img align="left" alt="Daniel L. Miranda's GitHub Stats" src="https://github-readme-stats.daniellmiranda.vercel.app/api/?username=DanielLMiranda&show_icons=true&theme=radical&hide_border=true" />
-
-<!--
-**DanielLMiranda/DanielLMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
