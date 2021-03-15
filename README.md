@@ -21,7 +21,7 @@
 <img align="left" alt="Jest" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/jest.png" />
 <img align="left" alt="RTL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/rtl.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/mysql2.png" />
+<img align="left" alt="MySQL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/github.png" />
