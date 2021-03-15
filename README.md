@@ -5,7 +5,7 @@
 - 🧔🏽 I'm 20 years old, brazilian living in São Paulo
 - 🌱 I’m currently taking a React, React Native and NodeJS course at [Rocketseat](https://rocketseat.com.br/) called Ignite
 - 🎓 I graduated as a software developer at [Trybe](https://www.betrybe.com/) in March 2021
-- 👯 I’m looking for job oportunities as a software developer
+- 💻 I’m looking for job oportunities as a software developer
 - 🥅 2021 Goals: Complete Ignite at [Rocketseat](https://rocketseat.com.br/) and additional front-end courses at [Origamid](https://www.origamid.com/) | 
 - 📚 Always trying to improve my programming and english skills
 - ⚡ I love technology and video games, and also very interested in economics, cryptocoins and geopolitics
