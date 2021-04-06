@@ -8,7 +8,7 @@
 - 💻 I’m looking for job oportunities as a software developer
 - 🥅 2021 Goals: Complete Ignite at [Rocketseat](https://rocketseat.com.br/) and additional front-end courses at [Origamid](https://www.origamid.com/)
 - 📚 Always trying to improve my programming and english skills
-- ⚡ I love technology and video games, and also very interested in economics, cryptocoins and geopolitics
+- ⚡ I love technology and video games, and also very interested in economics and cryptocoins
 
 ### Languages and Tools
 
