@@ -32,7 +32,7 @@
 <img align="left" alt="Jest" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/jest.png" />
 <img align="left" alt="RTL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/rtl.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/vscode.png" />
-
+<br>
 <hr>
-<a href="mailto:danieldelacerdamiranda@protonmail.com"><img src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/protonmail-badge.png"></a>
-<a href="https://linkedin.com/in/daniellmiranda"><img src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/linkedin-badge.png"></a>
+<a href="mailto:danieldelacerdamiranda@protonmail.com"><img height="15px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/protonmail-badge.png"></a>
+<a href="https://linkedin.com/in/daniellmiranda"><img height="15px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/linkedin-badge.png"></a>
