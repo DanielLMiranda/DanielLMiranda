@@ -21,6 +21,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/html5.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/css3.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/react.png" />
 <img align="left" alt="NodeJS" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/sql.png" />
