@@ -13,7 +13,7 @@
 </ul>
 <div>
   <img  height="180rem" src="https://github-readme-stats-daniellmiranda.vercel.app/api?username=daniellmiranda&count_private=true&show_icons=true&title_color=ff5252&text_color=eee&icon_color=ff0000&bg_color=1d1f20&hide_border=true">
-  <img height="180rem" src="https://github-readme-stats-daniellmiranda.vercel.app/api/top-langs/?username=daniellmiranda&langs_count=10&layout=compact&title_color=ff0000&text_color=ff5252&bg_color=1d1f20&hide_border=true">
+  <img height="180rem" src="https://github-readme-stats-daniellmiranda.vercel.app/api/top-langs/?username=daniellmiranda&langs_count=10&layout=compact&title_color=ff0000&text_color=eee&bg_color=1d1f20&hide_border=true">
 </div>
 
 ### Languages and Tools
