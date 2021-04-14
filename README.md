@@ -34,5 +34,5 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/vscode.png" />
 
 <hr>
-<a href="mailto:danieldelacerdamiranda@protonmail.com"><img src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/protonmail-badge"></a>
-<a href="https://linkedin.com/in/daniellmiranda"><img src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/linkedin-badge"></a>
+<a href="mailto:danieldelacerdamiranda@protonmail.com"><img src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/protonmail-badge.png"></a>
+<a href="https://linkedin.com/in/daniellmiranda"><img src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/linkedin-badge.png"></a>
