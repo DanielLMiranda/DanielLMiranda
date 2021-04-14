@@ -27,6 +27,7 @@
 <img align="left" alt="SQL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/git.png" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/docker.png" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/linux.png" />
 <img align="left" alt="Sass" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/sass.png" />
 <img align="left" alt="Redux" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/redux.png" />
