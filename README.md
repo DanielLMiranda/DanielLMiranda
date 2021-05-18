@@ -5,7 +5,7 @@
   <li>🧔🏽 I'm 20 years old, brazilian living in São Paulo</li>
   <li>🎓 I graduated as a web developer at <a href="https://www.betrybe.com/">Trybe</a> in April 2021</li>
   <li>🌱 I’m currently taking a React, React Native and NodeJS course at <a href="https://rocketseat.com.br">Rocketseat</a> called Ignite</li>
-  <li>💻 I’m looking for job oportunities as a web developer</li>
+  <li>💻 I'm working as a Full Stack Developer at <a href="https://omegaenergia.com.br/">Omega Energia</a></li>
   <li>🥅 2021 Goals: Complete Ignite at <a href="https://rocketseat.com.br">Rocketseat</a> and additional front-end courses at <a href="https://origamid.com">Origamid</a></li>
   <li>📚 Always trying to improve my programming and english skills</li>
   <li>⚡ I love technology and video games, and also very interested in finances and cryptocurrencies</li>
