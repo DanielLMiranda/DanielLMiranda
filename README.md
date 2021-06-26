@@ -2,19 +2,24 @@
 
 <h3>About me</h3>
 <ul>
-  <li>🧔🏽 I'm 20 years old, brazilian living in São Paulo</li>
-  <li>🎓 I graduated as a web developer at <a href="https://www.betrybe.com/">Trybe</a> in April 2021</li>
-  <li>🌱 I’m currently taking a React, React Native and NodeJS course at <a href="https://rocketseat.com.br">Rocketseat</a> called Ignite</li>
-  <li>💻 I'm working as a Full Stack Developer at <a href="https://omegaenergia.com.br/">Omega Energia</a></li>
-  <li>🥅 2021 Goals: Complete Ignite at <a href="https://rocketseat.com.br">Rocketseat</a> and additional front-end courses at <a href="https://origamid.com">Origamid</a></li>
-  <li>📚 Always trying to improve my programming and english skills</li>
-  <li>⚡ I love technology and video games, and also very interested in finances and cryptocurrencies</li>
-  <li>🖌️ I have created my own Visual Studio Code theme, you can check out on <a href="https://marketplace.visualstudio.com/items?itemName=WolvesLeague.wolves-league">Vscode Marketplace</a> and <a href="https://github.com/WolvesLeague/wolves-league-vscode-theme">GitHub</a></li>
+  <li>🧔🏽 I'm 21 years old, brazilian living in São Paulo;</li>
+  <li>🎓 I graduated as a Full Stack Developer at <a href="https://www.betrybe.com/">Trybe</a> in April 2021;</a></li>
+  <li>🌱 I’m currently taking a React, React Native and NodeJS course at <a href="https://rocketseat.com.br">Rocketseat</a> called Ignite;</li>
+  <li>💻 I'm working as a Full Stack Developer at <a href="https://omegaenergia.com.br/">Omega Energia;</a></li>
+  <li>🥅 2021 Goals: Complete Ignite at <a href="https://rocketseat.com.br">Rocketseat</a> and additional front-end courses at <a href="https://origamid.com">Origamid;</a></li>
+  <li>📚 Always trying to improve my programming and english skills;</li>
+  <li>⚡ I love technology and video games, and also very interested in finances and cryptocurrencies;</li>
+  <li>🖌️ I have created my own Visual Studio Code theme, you can check out on <a href="https://marketplace.visualstudio.com/items?itemName=WolvesLeague.wolves-league">Vscode Marketplace</a> and <a href="https://github.com/WolvesLeague/wolves-league-vscode-theme">GitHub;</a></li>
 </ul>
 <div>
   <img  height="140rem" src="https://github-readme-stats-daniellmiranda.vercel.app/api?username=daniellmiranda&count_private=true&show_icons=true&title_color=ff5252&text_color=eee&icon_color=ff0000&bg_color=1d1f20&hide_border=true">
   <img height="140rem" src="https://github-readme-stats-daniellmiranda.vercel.app/api/top-langs/?username=daniellmiranda&langs_count=10&layout=compact&title_color=ff5252&text_color=eee&bg_color=1d1f20&hide_border=true">
 </div>
+
+### More projects on my organizations
+
+<p><img align="align" alt="Wolves League logo" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/wolves-league.png"><strong>Wolves League:</strong> Some projects I've created that I consider finished products;</p>
+<p><img align="align" alt="Trybe" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/trybe-circle.png"><strong>Trybe Projects: Some of the projects I created during the Trybe course;</strong></p>
 
 ### Languages and Tools
 
