@@ -18,8 +18,8 @@
 
 ### More projects on my organizations
 
-<p><img align="align" alt="Wolves League logo" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/wolves-league.png"><strong>Wolves League:</strong> Some projects I've created that I consider finished products;</p>
-<p><img align="align" alt="Trybe" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/trybe-circle.png"><strong>Trybe Projects: Some of the projects I created during the Trybe course;</strong></p>
+<p><img align="center" style="margin-right:0.5rem" alt="Wolves League logo" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/wolves-league.png"><strong>Wolves League:</strong> Some projects I've created that I consider finished products;</p>
+<p><img align="center" style="margin-right:0.5rem" alt="Trybe" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/trybe-circle.png"><strong>Trybe Projects: Some of the projects I created during the Trybe course;</strong></p>
 
 ### Languages and Tools
 
