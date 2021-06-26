@@ -18,28 +18,28 @@
 
 ### More projects on my organizations
 
-<p><img align="align" alt="Wolves League logo" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/wolves-league.png"><strong>Wolves League:</strong> Some projects I've created that I consider finished products;</p>
-<p><img align="align" alt="Trybe" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/trybe-circle.png"><strong>Trybe Projects: Some of the projects I created during the Trybe course;</strong></p>
+<p><img align="align" alt="Wolves League logo" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/wolves-league.png"><strong>Wolves League:</strong> Some projects I've created that I consider finished products;</p>
+<p><img align="align" alt="Trybe" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/trybe-circle.png"><strong>Trybe Projects: Some of the projects I created during the Trybe course;</strong></p>
 
 ### Languages and Tools
 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/html5.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/react.png" />
-<img align="left" alt="NodeJS" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/sql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/git.png" />
-<img align="left" alt="Docker" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/docker.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/linux.png" />
-<img align="left" alt="Sass" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/sass.png" />
-<img align="left" alt="Redux" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/redux.png" />
-<img align="left" alt="Jest" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/jest.png" />
-<img align="left" alt="RTL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/rtl.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/icons/vscode.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/html5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/css3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/react.png" />
+<img align="left" alt="NodeJS" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/sql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/git.png" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/docker.png" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/linux.png" />
+<img align="left" alt="Sass" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/sass.png" />
+<img align="left" alt="Redux" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/redux.png" />
+<img align="left" alt="Jest" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/jest.png" />
+<img align="left" alt="RTL" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/rtl.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/icons/vscode.png" />
 <br>
 <hr>
-<a href="mailto:danieldelacerdamiranda@protonmail.com"><img height="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/protonmail-badge.png"></a>
-<a href="https://linkedin.com/in/daniellmiranda"><img height="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/master/badges/linkedin-badge.png"></a>
+<a href="mailto:danieldelacerdamiranda@protonmail.com"><img height="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/badges/protonmail-badge.png"></a>
+<a href="https://linkedin.com/in/daniellmiranda"><img height="26px" src="https://github.com/DanielLMiranda/DanielLMiranda/blob/main/badges/linkedin-badge.png"></a>
