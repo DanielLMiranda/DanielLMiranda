@@ -9,7 +9,7 @@
   <li>🥅 2021 Goals: Complete Ignite at <a href="https://rocketseat.com.br">Rocketseat</a> and additional front-end courses at <a href="https://origamid.com">Origamid</a>;</li>
   <li>📚 Always trying to improve my programming and english skills;</li>
   <li>⚡ I love technology and video games, and also very interested in finances and cryptocurrencies;</li>
-  <li>🖌️ I have created my own Visual Studio Code theme, you can check out on <a href="https://marketplace.visualstudio.com/items?itemName=WolvesLeague.wolves-league">Vscode Marketplace</a> and <a href="https://github.com/WolvesLeague/wolves-league-vscode-theme">GitHub;</a></li>
+  <li>🖌️ I have created my own Visual Studio Code theme, you can check out on <a href="https://marketplace.visualstudio.com/items?itemName=WolvesLeague.wolves-league">Vscode Marketplace</a> and <a href="https://github.com/WolvesLeague/wolves-league-vscode-theme">GitHub</a>;</li>
 </ul>
 <div>
   <img  height="140rem" src="https://github-readme-stats-daniellmiranda.vercel.app/api?username=daniellmiranda&count_private=true&show_icons=true&title_color=ff5252&text_color=eee&icon_color=ff0000&bg_color=1d1f20&hide_border=true">
