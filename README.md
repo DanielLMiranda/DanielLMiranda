@@ -12,8 +12,8 @@
   <li>🖌️ I have created my own Visual Studio Code theme, you can check out on <a href="https://marketplace.visualstudio.com/items?itemName=WolvesLeague.wolves-league">Vscode Marketplace</a> and <a href="https://github.com/WolvesLeague/wolves-league-vscode-theme">GitHub</a>;</li>
 </ul>
 <div>
-  <img  height="140rem" src="https://github-readme-stats-daniellmiranda.vercel.app/api?username=daniellmiranda&count_private=true&show_icons=true&title_color=ff5252&text_color=eee&icon_color=ff0000&bg_color=1d1f20&hide_border=true">
-  <img height="140rem" src="https://github-readme-stats-daniellmiranda.vercel.app/api/top-langs/?username=daniellmiranda&langs_count=10&layout=compact&title_color=ff5252&text_color=eee&bg_color=1d1f20&hide_border=true">
+  <img  height="140rem" src="github-readme-stats-sigma-five-33.vercel.app?username=daniellmiranda&count_private=true&show_icons=true&title_color=ff5252&text_color=eee&icon_color=ff0000&bg_color=1d1f20&hide_border=true">
+  <img height="140rem" src="github-readme-stats-sigma-five-33.vercel.app/api/top-langs/?username=daniellmiranda&langs_count=10&layout=compact&title_color=ff5252&text_color=eee&bg_color=1d1f20&hide_border=true">
 </div>
 
 ### More projects on my organizations
