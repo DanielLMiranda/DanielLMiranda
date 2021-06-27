@@ -6,7 +6,7 @@
   <li>🎓 I graduated as a Full Stack Developer at <a href="https://www.betrybe.com/">Trybe</a> in April 2021;</a></li>
   <li>🌱 I’m currently taking a React, React Native and NodeJS course at <a href="https://rocketseat.com.br">Rocketseat</a> called Ignite;</li>
   <li>💻 I'm working as a Full Stack Developer at <a href="https://omegaenergia.com.br/">Omega Energia</a>;</li>
-  <li>🥅 2021 Goals: Complete Ignite at <a href="https://rocketseat.com.br">Rocketseat</a> and additional front-end courses at <a href="https://origamid.com">Origamid;</a></li>
+  <li>🥅 2021 Goals: Complete Ignite at <a href="https://rocketseat.com.br">Rocketseat</a> and additional front-end courses at <a href="https://origamid.com">Origamid</a>;</li>
   <li>📚 Always trying to improve my programming and english skills;</li>
   <li>⚡ I love technology and video games, and also very interested in finances and cryptocurrencies;</li>
   <li>🖌️ I have created my own Visual Studio Code theme, you can check out on <a href="https://marketplace.visualstudio.com/items?itemName=WolvesLeague.wolves-league">Vscode Marketplace</a> and <a href="https://github.com/WolvesLeague/wolves-league-vscode-theme">GitHub;</a></li>
